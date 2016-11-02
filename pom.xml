@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <start-class>istia.st.aleas.config.Application</start-class>
+        <start-class>server.mobile.config.Application</start-class>
     </properties>
 
     <parent>
