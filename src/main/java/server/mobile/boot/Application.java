@@ -10,7 +10,7 @@ public class Application {
     public static void main(String[] args) {
 
         // lancement du serveur d'application
-        SpringApplication.run(Config.class, args);
+        SpringApplication.run(Config.class);
         /**
          * 1er param : la classe de configuration générée par les annotations Spring
          *             (dans le package config)
