@@ -33,10 +33,6 @@ public class TemperatureReponse {
         return mapCapteur.get(nomCapteur);
     }
 
-    public void setCapteur (String nomCapteur, Double temp) {
-        mapCapteur.put(nomCapteur, temp);
-    }
-
     public int getErreur() {
         return erreur;
     }
